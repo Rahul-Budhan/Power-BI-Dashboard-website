@@ -8,7 +8,7 @@ Installation
 Usage
 License
 ## Features
-Login page for user authentication
+Login page for user authentication, along with sign up and reset password functionality.
 Integration of PowerBI dashboard into the website
 Customizable username and password
 ## Prerequisites
