@@ -31,7 +31,7 @@ If you wish to change the username and password, open the login.js file and modi
 To integrate your own PowerBI dashboard, follow the steps provided by Microsoft PowerBI for embedding dashboards into web pages. Update the dashboard.html file with the necessary code provided by PowerBI.
 
 ## Demo
-<img src="https://github.com/Rahul-Budhan/Power-BI-Dashboard-website-with-login-page/blob/main/src/power-bi-website-integration-demo.mp4" width="580" height="400" />
+<img src="https://github.com/Rahul-Budhan/Power-BI-Dashboard-website-with-login-page/tree/main/src" width="580" height="400" />
 
 
 ## License
