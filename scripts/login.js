@@ -1,5 +1,6 @@
 // import { authenticateUser } from "./login1";
-
+const user__name = 'Rahul';
+const pass__word = '12345';
 container = document.getElementsByClassName("container")
 data = document.getElementsByClassName("form__input");
 login = document.getElementById("login");
@@ -25,7 +26,7 @@ async function check__user(){
     var verify= false;
     console.log(username,password);
     var timer = setInterval(function(){
-        if (username == "Rahul" && password == 12345   ){
+        if (username == user__name && password == pass__word   ){
             verify=true;
         }
        
